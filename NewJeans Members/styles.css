@@ -13,7 +13,9 @@ h1 {
 img {
     height: 300px;
     width:auto;
-    object-position:center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h2 {
@@ -34,8 +36,7 @@ li {
 
 button {
     font-size: 14px;
-    background-color: darkslateblue;
-    color:#cff3fc;
+    background-color: #e3dfff;
 }
 
 .name,
