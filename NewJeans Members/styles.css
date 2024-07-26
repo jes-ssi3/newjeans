@@ -1,0 +1,73 @@
+h1 {
+    background-color: antiquewhite;
+    color:black;
+    font-size:30px;
+    font-weight: 700px;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width:auto;
+    box-align:center
+}
+
+h2 {
+    font-size: 25px;
+    color:#292423;
+}
+
+h1,
+h2 {
+    font-family:"Helvetica", Arial, sans-serif;
+}
+
+li {
+    font-size:14px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.name,
+.rep {
+    color:black;
+    font-weight:bold;
+}
+.birthday {
+    color:darkgoldenrod;
+    font-style:italic;
+}
+
+
+
+.fact {
+    background-color:blanchedalmond;
+    color:#292423;
+}
+
+#pink,
+#yellow,
+#blue,
+#green,
+#purple {
+    font-style:underline;
+}
+
+#pink {
+    color:#ff54c9;
+}
+
+#yellow {
+    color:#f7e031;
+}
+
+#blue {
+    color: #524dff;
+}
+
+#green {
+    color: #82ff4d;
+}
+
+#purple {
+    color: #ba3bff;
+}
