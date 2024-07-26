@@ -1,5 +1,9 @@
+body {
+    background-color: #cff3fc;
+}
+
 h1 {
-    background-color: antiquewhite;
+    background-color: rgb(217, 210, 235);
     color:black;
     font-size:30px;
     font-weight: 700px;
@@ -7,14 +11,15 @@ h1 {
 }
 
 img {
-    height: 200px;
+    height: 300px;
     width:auto;
-    box-align:center
+    text-align:center;
 }
 
 h2 {
     font-size: 25px;
-    color:#292423;
+    background-color: #292423;
+    color:#fae5e1;
 }
 
 h1,
@@ -24,7 +29,13 @@ h2 {
 
 li {
     font-size:14px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:"Century Gothic", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    font-size: 14px;
+    background-color: darkslateblue;
+    color:#cff3fc;
 }
 
 .name,
@@ -37,8 +48,6 @@ li {
     font-style:italic;
 }
 
-
-
 .fact {
     background-color:blanchedalmond;
     color:#292423;
@@ -49,7 +58,7 @@ li {
 #blue,
 #green,
 #purple {
-    font-style:underline;
+    text-decoration:underline;
 }
 
 #pink {
@@ -57,15 +66,15 @@ li {
 }
 
 #yellow {
-    color:#f7e031;
+    color:#ebdf3a;
 }
 
 #blue {
-    color: #524dff;
+    color: #012761;
 }
 
 #green {
-    color: #82ff4d;
+    color: #088c084d;
 }
 
 #purple {
