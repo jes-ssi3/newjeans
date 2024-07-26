@@ -10,10 +10,10 @@ h1 {
     text-align: center;
 }
 
-img {
+.center {
     height: 300px;
     width: 50%;
-    display:block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
@@ -34,9 +34,9 @@ li {
     font-family:"Century Gothic", Verdana, Geneva, Tahoma, sans-serif;
 }
 
-button {
-    font-size: 14px;
-    background-color: #e3dfff;
+.home {
+    font-size: 18px;
+    background-color:#e3dfff;
 }
 
 .name,
