@@ -13,7 +13,7 @@ h1 {
 img {
     height: 300px;
     width:auto;
-    text-align:center;
+    object-position:center;
 }
 
 h2 {
@@ -74,7 +74,7 @@ button {
 }
 
 #green {
-    color: #088c084d;
+    color: #088c08;
 }
 
 #purple {
